@@ -1,0 +1,19 @@
+/* colors */
+
+/*
+60 % of #B222E3 Primary
+30% of #E32255 Second
+10% of #E589D9 Accent
+*/
+
+:root {
+
+/*var(--dominatColor) !import!; */
+--dominatColor; #B222E3
+
+/*var(--dominatColor) !import!; */
+--secondaryColor; #E32255
+
+/*var(--dominatColor) !import!; */
+--accentColor; #E589D9
+}
