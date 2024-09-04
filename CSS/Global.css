@@ -1,20 +1,20 @@
 /* colors */
 
 /*
-60 % of #B222E3 Dominat
-30% of #E32255 Secondary
-10% of #E589D9 Accent
+60 % of #722823 Dominat
+30% of #282372 Secondary
+10% of #3EC745 Accent
 */
 
 :root {
 
 /* var(--dominatColor) !important; */
---dominatColor: #237228;
+--dominatColor: #722823;
 
 /* var(--dominatColor) !important; */
---secondaryColor: #722823;
+--secondaryColor: #282372;
 
 /* var(--dominatColor) !important; */
---accentColor: #282372;
+--accentColor: #3EC745;
 
 }
