@@ -9,5 +9,9 @@ color:bisque;
 
 .fa-row-icon {
     font-size:60px;
-    color:bisque;S
+    color:bisque;
+}
+
+.fa-row-icon:hover {
+    transform: scale(1.1);
 }
