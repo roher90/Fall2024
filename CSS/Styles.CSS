@@ -3,4 +3,11 @@
 
 .fa-row {
     background-color: var(--dominatColor) !important;
-}padding: 35px;
+padding: 35px;
+color:bisque;
+}
+
+.fa-row-icon {
+    font-size:60px;
+    color:bisque;S
+}
