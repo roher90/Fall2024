@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
 @import 'Global.css';
 @import 'Main.css';
 
@@ -28,7 +28,7 @@ color:bisque;
     height: auto;
     margin-top: 20px;
     margin-bottom: 18px;
-    font-family: "Jacques Francois Shadow", serif;
+    font-family: "Handlee", cursive;
     margin-left: auto;
     margin-right: auto;
 }
